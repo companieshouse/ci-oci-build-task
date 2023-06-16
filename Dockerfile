@@ -1,4 +1,4 @@
-FROM concourse/oci-build-task:0.11
+FROM concourse/oci-build-task:0.11.1
 
 ARG ECR_CRED_HELPER_VER=0.6.0
 
